@@ -1,0 +1,41 @@
+{
+    "packages": [
+        {
+            "name": "blockify/plugin",
+            "version": "dev-main",
+            "version_normalized": "dev-main",
+            "dist": {
+                "type": "path",
+                "url": "../../plugins/blockify",
+                "reference": "6512352d67eb3087e710a7cf157339bff3114117"
+            },
+            "require": {
+                "php": "^7.4 || ^8.0"
+            },
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "files": [
+                    "blockify.php"
+                ]
+            },
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Lee Anthony",
+                    "email": "info@blockifywp.com"
+                }
+            ],
+            "description": "Lightweight block toolkit for WordPress FSE enabled themes.",
+            "transport-options": {
+                "symlink": false,
+                "relative": true
+            },
+            "install-path": "../blockify/plugin"
+        }
+    ],
+    "dev": false,
+    "dev-package-names": []
+}
