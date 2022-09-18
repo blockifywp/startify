@@ -1,20 +1,5 @@
-# Blockify Tabs
+# Startify Theme
 
-Lightweight, customizable Tabs block for WordPress.
+Stripped down version of the Blockify theme with framework included.
 
-## Installation
-
-### WordPress.org
-
-1. Navigate to Plugins > Add New.
-2. Search for "Blockify Tabs".
-3. Click "Install Now" and activate the plugin.
-4. Navigate to the editor and add a new block.
-5. Search for "Blockify Tabs" and add it to your page or post.
-6. Customize the block to your liking!
-
-### Composer
-
-```bash
-composer require blockify/tabs
-```
+![screenshot](https://raw.githubusercontent.com/blockifywp/theme/aaf0f14b2db28b37e69a8ee52a8d7d565e691355/screenshot.png)
