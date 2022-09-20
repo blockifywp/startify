@@ -8,7 +8,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Stripped down version of the Blockify theme.
+Startify is a completely blank child theme for Blockify. Ready for customization, use it as the starting point for your next custom project.
 
 == Installation ==
 
@@ -33,17 +33,7 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
-Composer
-License: MIT
-License URL: https://github.com/composer/composer/blob/main/LICENSE
-
-WordPress & Social Icons
-License: GPL-2.0-or-later
-License URL: https://github.com/WordPress/WordPress/blob/master/license.txt
-
-All other custom made assets are licensed under GPL-2.0-or-later.
-
-© Copyright Blockify 2022, Blockify.
+© Copyright Startify 2022, Blockify.
 
 == Changelog ==
 
