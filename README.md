@@ -2,4 +2,4 @@
 
 Startify is a completely blank starter theme for Blockify.
 
-![screenshot](https://raw.githubusercontent.com/blockifywp/theme/aaf0f14b2db28b37e69a8ee52a8d7d565e691355/screenshot.png)
+<img width="600" alt="screenshot" src="https://user-images.githubusercontent.com/24793388/191266041-e5190bfb-790b-4a82-8dc0-87813a209ad2.png">
