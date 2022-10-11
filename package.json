@@ -1,7 +1,0 @@
-{
-  "name": "blockify-startify",
-  "description": "Lightweight, customizable tabs block for WordPress.",
-  "author": "Lee Anthony <info@blockifywp.com>",
-  "license": "GPL-2.0-or-later",
-  "main": "build/index.js"
-}

@@ -1,0 +1,31 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "title": "Sublime",
+  "version": 2,
+  "settings": {
+    "color": {
+      "gradients": [
+        {
+          "slug": "light",
+          "name": "Light",
+          "gradient": "linear-gradient(135deg, rgba(248, 255, 252, 1) 0%, rgba(232, 243, 255, 1) 12%, rgba(253, 255, 254, 1) 19%, rgba(223, 255, 241, 1) 29%, rgba(234, 252, 255, 1) 42%, rgba(230, 255, 230, 1) 47%, rgba(211, 255, 211, 1) 54%, rgba(230, 255, 230, 1) 59%, rgba(253, 255, 254, 1) 65%, rgba(234, 251, 255, 1) 72%, rgba(221, 255, 233, 1) 84%, rgba(240, 255, 234, 1) 94%, rgba(253, 255, 254, 1) 98%, rgba(246, 255, 250, 1) 100%)"
+        },
+        {
+          "slug": "conic",
+          "name": "Conic",
+          "gradient": "var(--wp--custom--gradient--conic, conic-gradient(from 135deg,rgb(194,248,242) 0%,rgb(243,243,252) 14%,rgb(202,246,246) 24%,rgb(232,252,234) 35%,rgb(243,255,240) 45%,rgb(228,254,254) 57%,rgb(246,255,254) 67%,rgb(179,248,162) 85%,rgb(199,245,240) 100%))"
+        }
+      ]
+    }
+  },
+  "styles": {
+    "elements": {
+      "heading": {
+        "typography": {
+          "fontFamily": "var(--wp--preset--font-family--playfair-display)",
+          "fontWeight": "400"
+        }
+      }
+    }
+  }
+}
