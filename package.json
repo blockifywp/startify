@@ -1,0 +1,11 @@
+{
+  "name": "startify-theme",
+  "version": "0.0.2",
+  "description": "Startify theme.",
+  "author": "Blockify",
+  "license": "GPL-2.0-or-later",
+  "scripts": {
+    "pot": "wp i18n make-pot ./ languages/startify.pot --exclude='wp,wp-content,vendor,tests,node_modules,build,assets,src'",
+    "zip": "rm -Rf ../../startify.zip && zip -r ../../startify.zip assets/ parts/ patterns/ styles/ templates/ languages/ functions.php readme.txt screenshot.png style.css theme.json"
+  }
+}

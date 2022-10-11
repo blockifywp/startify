@@ -2,7 +2,7 @@
 Contributors: blockify
 Requires at least: 6.0
 Tested up to: 6.1
-Stable tag: 0.0.1
+Stable tag: 0.0.2
 License: GPL-2.0-or-later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -45,5 +45,8 @@ All other placeholder and brand SVG logos designed by Blockify and licensed unde
 
 == Changelog ==
 
-= 0.0.1 - October 11w, 2022 =
+= 0.0.2 - October 11, 2022 =
+* Add: Placeholder logos for hero default
+
+= 0.0.1 - October 11, 2022 =
 * Initial release
