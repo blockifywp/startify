@@ -19,21 +19,12 @@
       },
       "navigationSeparator": {
         "content": ""
+      },
+      "buttonOutline": {
+        "color": "var(--wp--preset--color--black)"
       }
     },
     "color": {
-      "palette": [
-        {
-          "slug": "black",
-          "name": "Black",
-          "color": "#10152e"
-        },
-        {
-          "slug": "white",
-          "name": "white",
-          "color": "#ffffff"
-        }
-      ],
       "gradients": [
         {
           "slug": "light",
@@ -41,9 +32,19 @@
           "gradient": "linear-gradient(135deg, rgb(230, 255, 251) 0%, rgb(249, 249, 255) 14%, rgb(253, 255, 255) 24%, rgb(233, 232, 252) 35%, rgb(245, 240, 255) 45%, rgb(247, 255, 255) 57%, rgb(246, 255, 254) 67%, rgb(249, 248, 253) 82%, rgb(226, 222, 255) 100%)"
         },
         {
-          "slug": "conic",
-          "name": "Conic",
-          "gradient": "var(--wp--custom--gradient--conic, conic-gradient(from 90deg, rgba(229, 245, 255), rgb(242, 255, 253), rgb(214, 255, 250), rgb(245, 254, 255), rgb(255, 234, 247), rgb(234, 226, 255), rgb(234, 252, 255), rgb(249, 246, 255), rgb(255, 254, 255), rgb(237, 236, 255), rgb(234, 252, 255), rgb(255, 237, 252), rgb(229, 245, 255)))"
+          "slug": "dark",
+          "name": "Dark",
+          "gradient": "linear-gradient(164deg, rgba(5, 3, 16, 1) 0%, rgba(49, 4, 93, 1) 6%, rgba(5, 11, 60, 0.92) 16%, rgba(5, 11, 60, 0.92) 23%, rgba(2, 6, 40, 0.92) 29%, rgba(0, 0, 0, 0.92) 34%, rgba(1, 5, 30, 0.92) 44%, rgba(3, 8, 56, 0.92) 50%, rgba(1, 21, 43, 0.92) 64%, rgba(2, 7, 43, 0.92) 71%, rgba(44, 9, 97, 1) 79%, rgba(5, 11, 60, 0.92) 88%, rgba(2, 1, 40, 0.92) 94%, rgba(0, 0, 0, 0.92) 98%)"
+        },
+        {
+          "slug": "conic-light",
+          "name": "Conic Light",
+          "gradient": "var(--wp--preset--gradient--custom-conic-light,conic-gradient(from 90deg, rgba(229, 245, 255), rgb(242, 255, 253), rgb(214, 255, 250), rgb(245, 254, 255), rgb(255, 234, 247), rgb(234, 226, 255), rgb(234, 252, 255), rgb(249, 246, 255), rgb(255, 254, 255), rgb(237, 236, 255), rgb(234, 252, 255), rgb(255, 237, 252), rgb(229, 245, 255)))"
+        },
+        {
+          "slug": "conic-dark",
+          "name": "Conic Dark",
+          "gradient": "var(--wp--preset--gradient--custom-conic-light,conic-gradient(from 164deg at 50% 50%, rgba(5, 3, 16, 1) 1%, rgba(5, 11, 60, 0.92) 16%, rgba(5, 11, 60, 0.92) 23%, rgba(2, 6, 40, 0.92) 29%, rgba(0, 0, 0, 0.92) 34%, rgba(1, 5, 30, 0.92) 44%, rgba(3, 8, 56, 0.92) 50%, rgba(1, 21, 43, 0.92) 64%, rgba(2, 7, 43, 0.92) 71%, rgba(24, 3, 56, 1) 79%, rgba(5, 11, 60, 0.92) 88%, rgba(2, 1, 40, 0.92) 94%, rgba(0, 0, 0, 0.92) 98%)))"
         }
       ]
     }
