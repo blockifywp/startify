@@ -1,8 +1,14 @@
 {
-  "name": "startify-theme",
+  "name": "blockify/startify",
   "description": "Starter child theme for Blockify",
-  "author": "Blockify",
   "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Blockify",
+      "email": "info@blockifytheme.com"
+    }
+  ],
+  "type": "wordpress-theme",
   "scripts": {
     "pot": "wp i18n make-pot ./ languages/startify.pot --exclude='wp,wp-content,vendor,tests,node_modules,build,assets,src'",
     "zip": "rm -Rf ../../startify.zip && zip -r ../../startify.zip assets/ parts/ patterns/ styles/ templates/ languages/ functions.php readme.txt screenshot.png style.css theme.json"
